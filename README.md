@@ -1,4 +1,7 @@
-# foodAdvisor
+# Food Advisor :hamburger: :fries: :shaved_ice:
+_Growing project..._
+
+_Development in process!_ :stars:
 
 ## Build Setup
 
@@ -18,3 +21,5 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+By Lushan :stars:
