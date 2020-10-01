@@ -20,6 +20,7 @@ $ npm run start
 $ npm run generate
 ```
 App developed with NuxtJS + Bulma
+
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 
 By Lushan :stars:
